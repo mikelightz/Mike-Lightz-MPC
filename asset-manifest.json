@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mike-Lightz-MPC/static/css/main.7f4c518a.css",
+    "main.js": "/Mike-Lightz-MPC/static/js/main.4a3da59a.js",
+    "index.html": "/Mike-Lightz-MPC/index.html",
+    "main.7f4c518a.css.map": "/Mike-Lightz-MPC/static/css/main.7f4c518a.css.map",
+    "main.4a3da59a.js.map": "/Mike-Lightz-MPC/static/js/main.4a3da59a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f4c518a.css",
+    "static/js/main.4a3da59a.js"
+  ]
+}
