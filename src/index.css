@@ -44,8 +44,7 @@
 }
 
 h1 {
-  position: relative;
-  left: 40%;
+  text-align: center;
   text-shadow: 3px 4px 5px #7692ff;
 }
 
