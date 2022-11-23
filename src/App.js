@@ -104,7 +104,7 @@ class App extends React.Component {
         <h1>Mike Lightz MPC 3000</h1>
         <div id="container">
           <div id="drum-machine">
-            <div id="drum-pads">
+            <button id="drum-pads">
               {buttons.map((button) => (
                 <DrumPad
                   id={button.id}
@@ -113,7 +113,7 @@ class App extends React.Component {
                   handleDisplay={this.handleDisplay}
                 />
               ))}
-            </div>
+            </button>
             <div id="container-two">
               <div id="display">{this.state.display}</div>
             </div>
