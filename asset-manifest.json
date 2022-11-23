@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Mike-Lightz-MPC/static/css/main.4bdebfab.css",
-    "main.js": "/Mike-Lightz-MPC/static/js/main.40d633b8.js",
+    "main.js": "/Mike-Lightz-MPC/static/js/main.44d895c6.js",
     "index.html": "/Mike-Lightz-MPC/index.html",
     "main.4bdebfab.css.map": "/Mike-Lightz-MPC/static/css/main.4bdebfab.css.map",
-    "main.40d633b8.js.map": "/Mike-Lightz-MPC/static/js/main.40d633b8.js.map"
+    "main.44d895c6.js.map": "/Mike-Lightz-MPC/static/js/main.44d895c6.js.map"
   },
   "entrypoints": [
     "static/css/main.4bdebfab.css",
-    "static/js/main.40d633b8.js"
+    "static/js/main.44d895c6.js"
   ]
 }
